@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'vazir';
+    src: url('../fonts/Vazir-Medium.eot');
+    src: url('../fonts/Vazir-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Vazir-Medium.woff2') format('woff2'),
+    url('../fonts/Vazir-Medium.woff') format('woff'),
+    url('../fonts/Vazir-Medium.ttf') format('truetype');
+}
+header{
+    background-color: #0F57FB;
+    color: #ffffff;
+    font-family: 'vazir';
+}
+.bg-light{
+    background-color: transparent !important;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: rgba(255, 255, 255, 0.66) !important;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: rgb(255, 255, 255) !important;
+}
+.navbar-text {
+    color: rgba(255,255,255) !important;
+}
+.p-header{
+    line-height: 28.8px;
+    word-spacing: 0.2rem;
+    text-align: justify;
+}
