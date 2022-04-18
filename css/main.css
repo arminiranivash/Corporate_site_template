@@ -6,6 +6,9 @@
     url('../fonts/Vazir-Medium.woff') format('woff'),
     url('../fonts/Vazir-Medium.ttf') format('truetype');
 }
+body{
+    font-family: 'vazir';
+}
 header{
     background-color: #0F57FB;
     color: #ffffff;
@@ -27,4 +30,11 @@ header{
     line-height: 28.8px;
     word-spacing: 0.2rem;
     text-align: justify;
+}
+.about-section{
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+header{
+    box-shadow: #cccccc 0px 50px 80px;
 }
