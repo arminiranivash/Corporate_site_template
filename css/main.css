@@ -33,8 +33,9 @@ header{
 }
 .about-section{
     padding-top: 7rem;
-    padding-bottom: 7rem;
+    background-color: #F3F7FF;
+    /* padding-bottom: 7rem; */
 }
-header{
-    box-shadow: #cccccc 0px 50px 80px;
+header img{
+    box-shadow: #cccccc 0px 20px 30px;
 }
