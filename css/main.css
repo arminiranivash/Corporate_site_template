@@ -36,6 +36,9 @@ header{
     background-color: #F3F7FF;
     /* padding-bottom: 7rem; */
 }
+.footer-section{
+    background-color: #F3F7FF;
+}
 header img{
     box-shadow: #cccccc 0px 20px 30px;
 }
